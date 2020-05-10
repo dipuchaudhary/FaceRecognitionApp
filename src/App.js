@@ -19,7 +19,7 @@ const app = new Clarifai.App({
 const particlesOption = {
 	"particles": {
 		"number": {
-			"value": 60
+			"value": 55
 		},
 		"size": {
 			"value": 3
